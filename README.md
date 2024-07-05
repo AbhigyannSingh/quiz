@@ -36,7 +36,7 @@ Flashcard Quiz is an interactive web application designed to help users practice
 5. Open the provided URL in a web browser to access the application.
 
 ## Live Demo
-Check out the live version of the project [here](https://quizquiz-puce.vercel.app/)
+Check out the live version of the project [here](https://quiziz-seven.vercel.app/)
 
 
 
