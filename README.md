@@ -29,19 +29,16 @@ Flashcard Quiz is an interactive web application designed to help users practice
 7. **Retake Quiz**: Users can retake quizzes by navigating back to the topic selection page.
 
 ## Installation
-1. Clone or download the Flashcard Quiz repository from [GitHub](https://github.com/MaitisamY/flashcard-quiz)
+1. Clone or download the Flashcard Quiz repository from [GitHub](https://github.com/AbhigyannSingh/quiz)
 2. Navigate to the project directory.
 3. Run `npm install` to install dependencies.
 4. Run `npm run dev` to start the development server.
 5. Open the provided URL in a web browser to access the application.
 
 ## Live Demo
-Check out the live version of the project [here](https://flashcard-quiz-blush.vercel.app)
+Check out the live version of the project [here](https://quizquiz-puce.vercel.app/)
 
-## Support
-For any inquiries or support requests, please reach out to me through our [GitHub repository](https://github.com/MaitisamY/flashcard-quiz).
 
-For direct email inquiries, contact: [m.aitisamyaseen@gmail.com](mailto:m.aitisamyaseen@gmail.com).
 
 ## License
 This project is licensed under the MIT License. You are free to use and modify the code according to your requirements.
